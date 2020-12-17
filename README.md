@@ -1,4 +1,4 @@
-# Summer-Analyics-2020-IIT-Guhawati-
+# Summer-Analyics-2020-IIT-Guhawati
 ### Assignments done under "Summer Analytics", a Data Science Course(250+ hours) conducted by IIT Guhawati.
 #### Week 1 - Data Engineering
 #### Week 2 - Chicago Crime Detection(Assignment), EDA And Data Visualization
